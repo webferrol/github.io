@@ -1,0 +1,1 @@
+import{d as e,aK as t}from"./index.c74af1de.js";function n(){return e(t)}const c=()=>{const r=n();return{error:o=>r.notify({color:"red-5",textColor:"white",icon:"warning",message:`${o}`}),ok:o=>r.notify({color:"green-5",textColor:"white",icon:"done",message:`${o}`})}};export{c as u};
